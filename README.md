@@ -123,6 +123,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[eSignatures](https://github.com/esignaturescom/mcp-server-esignatures)** - Contract and template management for drafting, reviewing, and sending binding contracts.
 - **[ELEMENT.FM](https://gitlab.com/elementfm/mcp)** - Create and publish unlimited podcast shows and episodes with [ELEMENT.FM](https://element.fm)
 - **[ElevenLabs](https://github.com/elevenlabs/elevenlabs-mcp)** - The official ElevenLabs MCP server
+- **[Evaboot](https://github.com/evaboot-team/evaboot-mcp)** - Extract LinkedIn Sales Navigator leads and find or verify their professional emails, then push them to HubSpot, Attio, Apollo or Pipedrive. Remote server at [https://mcp.evaboot.com/mcp](https://mcp.evaboot.com/mcp)
 - **[Exa](https://github.com/exa-labs/exa-mcp-server)** - Search Engine made for AIs by [Exa](https://exa.ai)
 - **[FetchSERP](https://github.com/fetchSERP/fetchserp-mcp-server-node)** - All-in-One SEO & Web Intelligence Toolkit API [FetchSERP](https://www.fetchserp.com)
 - **[Fewsats](https://github.com/Fewsats/fewsats-mcp)** - Enable AI Agents to purchase anything in a secure way using [Fewsats](https://fewsats.com)
